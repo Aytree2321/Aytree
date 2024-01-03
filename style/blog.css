@@ -1,3 +1,11 @@
 div{background-color: tomato;
 padding: 10px;
-margin-bottom: 40 px;}
+margin-bottom: 40px;}
+
+.git{
+    background-color: rgb(121, 122, 11);
+}
+
+ol{background-color: aqua;}
+
+image{background-position: right;}
